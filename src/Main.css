@@ -1,0 +1,14 @@
+.main{
+    display:block;
+    width:100%;
+    margin-left:50px;
+    padding:50px;
+    text-align: center;
+}
+.searchbar{
+    display:flex;
+    flex-direction: row;
+}
+.search{
+    width:600px;
+}
